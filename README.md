@@ -1,5 +1,10 @@
 # eslint-plugin-studio
 
+> **Warning**
+> This is the first eslint plugin I've worked on.
+> Dispite my best efforts, this plugin may not follow all best practices.
+> Please take this into consideration before using in your project.
+
 Custom linting rules for Sanity Studio.
 
 ## Installation
