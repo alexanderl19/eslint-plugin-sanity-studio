@@ -20,6 +20,6 @@ jobs:
           run_install: |
             - recursive: true
               args: [--frozen-lockfile]
-      - run: pnpm publish --provenance --access public
+      - run: pnpm publish --provenance --no-git-checks --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
