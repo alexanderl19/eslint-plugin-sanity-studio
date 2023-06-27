@@ -8,7 +8,7 @@
 // Requirements
 //------------------------------------------------------------------------------
 
-const rule = require("../../../lib/rules/schema-define-type-helper"),
+const rule = require("../../../lib/rules/define-type-helper"),
   RuleTester = require("eslint").RuleTester;
 
 //------------------------------------------------------------------------------
