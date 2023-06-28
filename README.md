@@ -1,10 +1,10 @@
-# eslint-plugin-studio
+# eslint-plugin-sanity-studio
 
 > **Warning**
-> 
-> This is the first eslint plugin I've worked on.
-> Dispite my best efforts, this plugin may not follow all best practices.
-> Please take this into consideration before using in your project.
+>
+> This is my first attempt at creating an eslint plugin.
+> Dispite my best efforts, it may not adhere to all best practices.
+> Please keep this in mind before incorporating into your projects.
 
 Custom linting rules for Sanity Studio.
 
@@ -16,39 +16,36 @@ You'll first need to install [ESLint](https://eslint.org/):
 npm i eslint --save-dev
 ```
 
-Next, install `eslint-plugin-studio`:
+Next, install `eslint-plugin-sanity-studio`:
 
 ```sh
-npm install eslint-plugin-studio --save-dev
+npm install eslint-plugin-sanity-studio --save-dev
 ```
 
 ## Usage
 
-Add `studio` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
+Add `sanity-studio` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
 
 ```json
 {
-    "plugins": [
-        "studio"
-    ]
+  "plugins": ["sanity-studio"]
 }
 ```
-
 
 Then configure the rules you want to use under the rules section.
 
 ```json
 {
-    "rules": {
-        "studio/rule-name": 2
-    }
+  "rules": {
+    "sanity-studio/rule-name": 2
+  }
 }
 ```
 
 ## Rules
 
 <!-- begin auto-generated rules list -->
+
 TODO: Run eslint-doc-generator to generate the rules list.
+
 <!-- end auto-generated rules list -->
-
-
