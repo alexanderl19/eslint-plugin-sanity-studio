@@ -1,6 +1,6 @@
 # eslint-plugin-sanity-studio
 
-![npm](https://img.shields.io/npm/v/eslint-plugin-sanity-studio?logo=npm&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Feslint-plugin-sanity-studio)
+[![npm](https://img.shields.io/npm/v/eslint-plugin-sanity-studio?logo=npm&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Feslint-plugin-sanity-studio)](https://www.npmjs.com/package/eslint-plugin-sanity-studio)
 
 > **Warning**
 >
