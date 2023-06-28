@@ -1,12 +1,12 @@
 # eslint-plugin-sanity-studio
 
+![npm](https://img.shields.io/npm/v/eslint-plugin-sanity-studio?logo=npm&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Feslint-plugin-sanity-studio)
+
 > **Warning**
 >
 > This is my first attempt at creating an eslint plugin.
 > Dispite my best efforts, it may not adhere to all best practices.
 > Please keep this in mind before incorporating into your projects.
-
-Custom linting rules for Sanity Studio.
 
 ## Installation
 
