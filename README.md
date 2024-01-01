@@ -47,12 +47,14 @@ Then configure the rules you want to use under the rules section.
 
 <!-- begin auto-generated rules list -->
 
+💼 Configurations enabled in.\
+✅ Set in the `recommended` configuration.\
 🔧 Automatically fixable by the [`--fix` CLI option](https://eslint.org/docs/user-guide/command-line-interface#--fix).
 
-| Name                                                                   | Description                                                            | 🔧  |
-| :--------------------------------------------------------------------- | :--------------------------------------------------------------------- | :-- |
-| [define-array-member-helper](docs/rules/define-array-member-helper.md) | Enforce "defineArrayMember" helper functions for Sanity schema arrays. | 🔧  |
-| [define-field-helper](docs/rules/define-field-helper.md)               | Enforce "defineField" helper functions for Sanity schema fields.       | 🔧  |
-| [define-type-helper](docs/rules/define-type-helper.md)                 | Enforce "defineType" helper functions for Sanity schemas.              | 🔧  |
+| Name                                                                   | Description                                                            | 💼 | 🔧 |
+| :--------------------------------------------------------------------- | :--------------------------------------------------------------------- | :- | :- |
+| [define-array-member-helper](docs/rules/define-array-member-helper.md) | Enforce "defineArrayMember" helper functions for Sanity schema arrays. | ✅  | 🔧 |
+| [define-field-helper](docs/rules/define-field-helper.md)               | Enforce "defineField" helper functions for Sanity schema fields.       | ✅  | 🔧 |
+| [define-type-helper](docs/rules/define-type-helper.md)                 | Enforce "defineType" helper functions for Sanity schemas.              | ✅  | 🔧 |
 
 <!-- end auto-generated rules list -->
