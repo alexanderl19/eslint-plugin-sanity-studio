@@ -8,7 +8,12 @@
   "keywords": [
     "eslint",
     "eslintplugin",
-    "eslint-plugin"
+    "eslint-plugin",
+    "sanity",
+    "sanity cms",
+    "sanity-studio",
+    "sanity studio",
+    "studio"
   ],
   "author": "Alexander Liu",
   "main": "./lib/index.js",
